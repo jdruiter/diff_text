@@ -32,10 +32,6 @@ Author: Joris de Ruiter <joris@jdruiter.nl>
 
 Diff demo: https://neil.fraser.name/software/diff_match_patch/demos/diff.html
 
-TODO's:
-    word mode DIFF:
-    https://github.com/google/diff-match-patch/wiki/Line-or-Word-Diffs
-
 """
 
 __author__ = 'fraser@google.com (Neil Fraser) & joris@jdruiter.nl (Joris de Ruiter)'
